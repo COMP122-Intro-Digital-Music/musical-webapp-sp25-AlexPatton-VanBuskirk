@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "Chorus",
+    "pitch": "C4",
+    "pattern": "10100000"
+  },
+  {
+    "name": "Hollow",
+    "pitch": "B3",
+    "pattern": "10001100"
+  },
+  {
+    "name": "Hit",
+    "pitch": "A#3",
+    "pattern": "0110011000"
+  }
+]
