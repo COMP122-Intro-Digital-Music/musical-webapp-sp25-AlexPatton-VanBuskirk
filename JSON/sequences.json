@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "Twisted",
+    "loop": "3:0:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "2:1:0.0",
+        "pitch": "D5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "D#4",
+        "dur": "2n.",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "1n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Decay",
+    "loop": "3:1:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "F3",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "G3",
+        "dur": "1n",
+        "vel": "1"
+      }
+    ]
+  }
+]
